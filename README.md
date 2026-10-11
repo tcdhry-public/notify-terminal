@@ -207,4 +207,3 @@ Get-ChildItem Cert:\LocalMachine\TrustedPeople | Where-Object Subject -eq "CN=tc
 - `nterm list` / `nterm read` / `nterm delete` コマンド
 - `--silent`(無音)
 - `--json` の標準入力からの読み込み
-- 一覧の表示切り替え、まとめて既読・削除する操作
